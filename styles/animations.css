@@ -15,7 +15,7 @@
 
 @keyframes pointer {
     0% {
-      transform: translateX(0px) 
+      transform: translateX(0px); 
     }
     100% {
       transform: translateX(4px);
@@ -97,7 +97,4 @@
     animation: heart-sparks 0.3s 0.3s ease-in alternate;
   }
 
-  .like-icon.is-liked .contour {
-    fill: var(--heart-main-body-colour, #FF0000);
-    transition: fill 0.1s linear;
-  }
+  
