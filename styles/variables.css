@@ -1,16 +1,16 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
 
 :root {
-    --main-font: 'Inter-Variable', sans-serif;
-    --accent-font: 'PressStart2P', sans-serif;
-    --main-text-font-wght: 400;
-    --title-font-wght: 700;
-    --bg-color: #FFF;
-    --accent-color: #000;
-    --bg-gradient-color-one: #d3d3d3;
-    --bg-gradient-color-two: #e7e7e7;
-    --bg-gradient-color-three: #1a1a1a;
-    --button-animation-text-color: #FFF;
-    --heart-contour-color:#000;
-    --heart-main-body-colour: #FF0000;
-  }
+  --main-font: "Inter-Variable", sans-serif;
+  --accent-font: "PressStart2P", sans-serif;
+  --main-text-font-wght: 400;
+  --title-font-wght: 700;
+  --bg-color: #fff;
+  --accent-color: #000;
+  --bg-gradient-color-one: #d3d3d3;
+  --bg-gradient-color-two: #e7e7e7;
+  --bg-gradient-color-three: #1a1a1a;
+  --button-animation-text-color: #fff;
+  --heart-contour-color: #000;
+  --heart-main-body-colour: #ff0000;
+}
