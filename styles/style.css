@@ -165,7 +165,7 @@
   }
 }
 
-.card__picture__item {
+.card__picture-item {
   position: relative;
   object-fit: cover;
   object-position: center;
@@ -215,7 +215,7 @@
   display: flex;
   justify-content: flex-end;
   padding: 0px 25px 25px 0px;
-  gap: 9px;
+  gap: 5px;
 }
 
 .button-animation {
@@ -309,7 +309,7 @@
   color: var(--button-animation-text-color, #fff);
 }
 
-dialog.save-button__dialog {
+.save-button__dialog {
   padding: 0px;
   border: none;
 }
@@ -368,7 +368,7 @@ dialog.save-button__dialog {
   }
 
   .save-button {
-      max-inline-size: 306px;
+      min-inline-size: 306px;
       block-size: 80px;
       flex-direction: column;
       padding: 15px 0px 15px 0px;
